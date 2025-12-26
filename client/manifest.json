@@ -1,0 +1,19 @@
+
+{
+  "name": "WonderWhys",
+  "short_name": "WonderWhys",
+  "description": "Learn with Mrs. Wonder!",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f0fdf4",
+  "theme_color": "#9333ea",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/fluency/512/storytelling.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

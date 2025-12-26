@@ -1,0 +1,7 @@
+{
+  "name": "WonderWhys",
+  "description": "A vibrant mobile educational app for children with an Indian lady teacher voice.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
